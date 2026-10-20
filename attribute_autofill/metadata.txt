@@ -1,0 +1,17 @@
+[general]
+name=QGIS Attribute Auto-Fill
+qgisMinimumVersion=3.22
+description=Automatically fill telecom GIS attributes and manage Infinium IDs and HUB Numbers
+version=1.0.2
+author=Amlan Patnaik
+email=amlanpatnaikx@gmail.com
+about=QGIS Attribute Auto-Fill by Amlan Patnaik. Copyright (C) 2026 Amlan Patnaik. Automates telecom GIS attribute population, optional FDA-based Infinium ID lookup, and safe Infinium ID/HUB Number splitting.
+tracker=https://github.com/amlanpatnaik001
+repository=https://github.com/amlanpatnaik001
+homepage=https://github.com/amlanpatnaik001
+tags=qgis, python, gis, telecom, attribute-autofill
+category=Plugins
+icon=icon.png
+experimental=False
+deprecated=False
+server=False
